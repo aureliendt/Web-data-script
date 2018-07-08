@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="fr">
+  <head>
+    <style>
+    body {
+    background-color: #FFF8DC;
+    text-align: center;
+    line-height: 1.8;
+    font-size: 30px;
+    color: #D2691E;
+    }
+
+    h1 {
+    text-align: center;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-weight: normal;
+    background: #FAEBD7;
+    color: 	#D2691E;
+    margin: auto;
+    padding: 5px;
+    }
+
+    .flash   { line-height: 1.8;
+    font-size: 50px;
+    color: #009933; }
+    </style>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="/static/style.css">
+    <h1 class="title"><span>Tous les chemins mènent à la philosophie</span></h1>
+
+  </head>
+  <body>
+    {% block body %}
+      {# Début du bloc "body", dont vous devez modifier le contenu #}
+      <form action="/new-game" method="post">
+        <input type = "text" name="start" value="start">
+        <input type="submit" value="Envoyer">
+      </form>
+
+      {% with message = get_flashed_messages() %}
+        {% if message %}
+          <ul class=flashes>
+              <b>{{ message[0] }}<br>
+              Ton score est de : {{ session.score }}<br>
+          </ul>
+        {% endif %}
+      {% endwith %}
+    {% endblock %}
+  </body>
+</html>

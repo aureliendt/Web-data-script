@@ -1,0 +1,89 @@
+Army	country
+Wales	United
+Shovel	tool
+Seam ripper	tool
+Physical change	change
+Bath	people
+Ziggy Stardust	character
+Terry Gilliam	cartoonist
+Belize	country
+President of Russia	Russia
+Hillary Rodham Clinton	State
+Ilia	prefectures
+Georges Brassens	singer
+Edip Yuksel	group
+Hodgenville, Kentucky	Kentucky
+AC/DC	band
+São Tomé and Príncipe	São
+Disney Channel	network
+North and South	Jakes
+Loreto Region	Peru
+Tropical cyclone	thunderstorms
+Bismuth	metal
+Pinocchio	Pinocchio
+Wallonia	Belgium
+Phylum	organisms
+Chipmunk	rodent
+Mollusc	animals
+Isthmus	land
+Ritual	actions
+John the Apostle	apostles
+Elle Macpherson	supermodel
+Kookaburra Sport	company
+Alkmene	person
+Medusa (animal)	forms
+Haiphong	Vietnam
+Crown-of-thorns starfish	sea
+Pacific Islands	islands
+Kampala	Uganda
+Vaquita	porpoise
+Mud	soil
+Sondrio	city
+Jons Jacob Berzelius	chemist
+Western Digital	company
+K2	mountain
+Gran Colombia	country
+My Belarusy	Belarus
+Great Fire of London	tragedy
+Spike Spiegel	character
+Nu metal	metal
+Orange (fruit)	citrus
+Toaster	machine
+Moat	water
+Alex Trebek	show
+Smash (album)	Offspring
+Shanty town	cities
+Arthur de Gobineau	aristocrat
+Ledger line	line
+Pellagra	disease
+Nagamaki	weapon
+Artillery	guns
+Scone, Perth and Kinross	town
+Cerulean	colours
+Nakhodka	city
+Paul Stanley (album)	rock/heavy
+Joachim Löw	footballer
+Communication Studies	study
+2029	calendar
+Bruges	Belgium
+John Collins	footballer
+Lusaka	Zambia
+Piston	cylinder
+Manny Gamburyan	artist
+Onyx	rock
+Thunderstorm	weather
+Guwahati	India
+Hadith	something
+Hanami	flowers
+Magnetosphere	region
+Thebes, Greece	city
+Elegance	attribute
+General Motors railway station, Melbourne	station
+Escopetarra	peace
+Hittites	people
+MotorStorm	game
+Doris Lessing	writer
+Westdeutscher Rundfunk	North
+Kirkwood gap	gaps
+Fluid mechanics	move
+Phoenicia	Canaan

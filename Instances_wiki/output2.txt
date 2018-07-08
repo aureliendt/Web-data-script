@@ -1,0 +1,67 @@
+April	month
+August	month
+Art	activities
+A	letter
+Autonomous communities of Spain	parts
+Alanis Morissette	singer
+Adobe Illustrator	computer
+Andouille	sort
+Farming	crops
+Arithmetic	numbers
+Addition	way
+Australia	continent
+Aquaculture	farming
+Abbreviation	way
+Angel	spirit
+Ad hominem	term
+Apple	kind
+Algebra	part
+As	metaphor
+Atom	type
+Astronomy	study
+Architecture	design
+Anatomy	study
+Asteroid	planet
+Afghanistan	country
+Angola	country
+Argentina	country
+Austria	country
+Armenia	country
+Archaeology	study
+Animalia	name
+Acceleration	measure
+Basic English	language
+Black pudding	name
+Boot	type
+Breakfast sausage	type
+Beekeeping	farming
+British English	kind
+Beijing	capital
+Bottle	container
+Berry	kinds
+Boil	bubbles
+Beard	hair
+Black	lack
+Bubonic plague	disease
+Biology	science
+Botany	science
+Belgium	country
+Brazil	country
+Britain	name
+Chemistry	science
+Computer science	science
+Computer	machine
+Continent	area
+China	region
+Country	division
+Colchester	town
+Cartography	maps
+Creator	person
+Contact network	group
+Creative network	group
+Chorizo	pork
+Creativity	ability
+Cosmology	study
+Church	building
+City	place
+Chat	things

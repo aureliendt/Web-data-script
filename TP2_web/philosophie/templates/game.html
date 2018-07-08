@@ -1,0 +1,39 @@
+{% extends "index.html" %}
+
+{% block body %}
+    <head>
+    <style>
+    body {
+    background-color: #FFF8DC;
+    text-align: center;
+    line-height: 1.8;
+    font-size: 30px;
+    color: #D2691E;
+    }
+    h1 {
+    text-align: center;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    font-weight: normal;
+    background: #FAEBD7;
+    color: 	#D2691E;
+    margin: auto;
+    padding: 5px;
+    }
+    p    {color: red;}
+    </style>
+    <h1 class="title"><span>{{title}}  <br> Ton score est de : {{session.score}}</span></h1>
+    <form action="/move" method="post">
+
+    <label for={{links[0]}}>{{links[0]}}
+    <input type="radio" name="destination" id={{links[0]}} value={{links[0]}} checked="checked"> </input></label><br>
+    {% for link in links[1:] %}
+        <label for={{link}}>{{link}}
+        <input type="radio" name="destination" id={{link}} value={{link}}> </input></label><br>
+    {% endfor %}
+    <input type="submit" value="Submit">
+    </form>
+
+{% endblock %}
